@@ -1,3 +1,31 @@
 theme: jekyll-theme-cayman
 title: 阮锦浩的博客
 SEOTitle: 阮锦浩的博客
+#header-img: img/post-bg-desk.jpg
+email: ruanjinhao@outlook.com
+#description: "Every failure is leading towards success."
+keyword: "JH, JH Blog, 阮锦浩的博客, ruanjinhao, 阮锦浩, EE, Power Electronics"
+url: "http://jhruan.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/JHRuan/jhruan.github.io.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: /img/headpic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+# Progressive Web Apps
+#chrome-tab-theme-color: "#000000"
+#service-worker: true
+
+
+
