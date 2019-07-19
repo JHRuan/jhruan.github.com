@@ -5,6 +5,7 @@
 #### Finally, I found it was caused by the triggering mode of oscilloscope, it was set as rising edge mode as default.
 #### So I switch the source to a square wave，the display became normal.
 ![Image](img/20190719waveform2.JPG)
+***
 ---
 ___
 #### back to the main page, please click [here](jhruan.github.io) 
