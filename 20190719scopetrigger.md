@@ -8,4 +8,4 @@
 
 
 ___
-#### back to the main page, please click [here](jhruan.github.io) 
+#### back to the front page, please click [here](jhruan.github.io) 
